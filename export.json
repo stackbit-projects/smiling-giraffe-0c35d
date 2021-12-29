@@ -1,6 +1,6 @@
 {
     "cmsType": "contentful",
-    "projectTitle": "Stackbit Fjord Theme",
+    "projectTitle": "LittleMaster Blog",
     "staticDir": "public",
     "pagesDir": "content/pages",
     "dataDir": "content/data",
