@@ -2,12 +2,13 @@
  * Site Header
  */
 .site-header {
-  background: _palette(secondary);
+  background: #FFF8EB;
   color: #fff;
   position: relative;
 }
 
 .site-header-bg {
+background-color: #fff8eb;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -53,7 +54,7 @@
 }
 
 .site-title {
-  color: #fff;
+  color: #000000;
   font-size: 1.66667rem;
   font-weight: bold;
   line-height: 1.2;
